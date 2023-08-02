@@ -26,5 +26,5 @@ __How to test the program ?__
 
 ![DungeonMap](dungeon.png)
 ![SadFaceMap](sad_face.png)
-![CheeseMazeMap](cheese_maze.png)
+![CheeseMazeMap](cheese.png)
 ![Rating](rating.png)
