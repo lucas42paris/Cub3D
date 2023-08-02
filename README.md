@@ -7,7 +7,7 @@ Pour arriver a nos fins, nous utiliserons le __ray-casting__ et la MinilibX, la 
 
 Le code doit respecter la Norme imposée par 42 (voir pdf).
 
-__Comment tester le programme__ ?
+__Comment tester le programme ?__
 
 * 
 
@@ -18,7 +18,7 @@ To achieve our goals, we will use __ray-casting__ and MinilibX, the graphics lib
 
 The code must respect the Norm imposed by 42 (see pdf).
 
-__How to test the program__ ?
+__How to test the program ?__
 
 * 
 
