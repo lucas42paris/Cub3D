@@ -7,20 +7,12 @@ Pour arriver a nos fins, nous utiliserons le __ray-casting__ et la MinilibX, la 
 
 Le code doit respecter la Norme imposée par 42 (voir pdf).
 
-__Comment tester le programme ?__
-
-* 
-
 🇺🇸
 
 The Cub3D project consists in creating a 3D game inspired by Wolfenstein3D, the first first person shooter (FPS).
 To achieve our goals, we will use __ray-casting__ and MinilibX, the graphics library of School 42.
 
 The code must respect the Norm imposed by 42 (see pdf).
-
-__How to test the program ?__
-
-* 
 
 # Screenshots
 
